@@ -5,7 +5,9 @@ Hi there, I'm Cole. A diehard fan of TypeScript and sole believer of the "Everyt
 # 🧰 Tech Stack
 
 ![](https://skillicons.dev/icons?i=ts,js,nodejs,bun,deno)
+
 ![](https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite)
+
 ![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb)
 
 # 📊 Metrics
