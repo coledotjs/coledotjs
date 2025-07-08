@@ -10,7 +10,7 @@ A small list of my favorite & most commonly used programming languages, framewor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,deno" />
+    <img src="https://skillicons.dev/icons?i=ts,js,wasm,nodejs,bun,deno," />
   </a>
 </p>
 
@@ -18,7 +18,7 @@ A small list of my favorite & most commonly used programming languages, framewor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,sass,vite" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ A small list of my favorite & most commonly used programming languages, framewor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,cassandra" />
   </a>
 </p>
 
