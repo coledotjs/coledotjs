@@ -31,3 +31,7 @@ This is just here for show. I only really work with TypeScript.
 <picture>
   <img src="/github-metrics.svg" alt="GitHub Metrics" draggable="false">
 </picture>
+
+# ✉️ Contact
+
+I primarly answer to messages on [Discord](https://discord.com/). Feel free to send me a DM (`@coledotjs`) if you want to talk to me for whatever reason.
