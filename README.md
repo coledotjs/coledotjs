@@ -4,7 +4,7 @@ I'm Cole, a university student majoring in software engineering, as well as a Ty
 
 # 🧰 Tech Stack
 
-A small collection of programming languages, frameworks, tools, and databases I frequently use.
+## Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,11 +12,15 @@ A small collection of programming languages, frameworks, tools, and databases I 
   </a>
 </p>
 
+## Frameworks & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite" />
   </a>
 </p>
+
+## Databases
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +30,7 @@ A small collection of programming languages, frameworks, tools, and databases I 
 
 # 📊 Metrics
 
-This is just here for show. I only really work with TypeScript.
+This is kind of pointless considering I only use TypeScript, but It makes my profile seem fuller. 
 
 <picture>
   <img src="/github-metrics.svg" alt="GitHub Metrics" draggable="false">
