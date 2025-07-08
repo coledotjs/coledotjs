@@ -4,7 +4,9 @@ I'm Cole, a university student majoring in software engineering, as well as a Ty
 
 # 🧰 Tech Stack
 
-## Languages
+A small list of my favorite & most commonly used programming languages, frameworks, tools, and databases.
+
+### Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,7 +14,7 @@ I'm Cole, a university student majoring in software engineering, as well as a Ty
   </a>
 </p>
 
-## Frameworks & Tools
+### Frameworks & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,7 +22,7 @@ I'm Cole, a university student majoring in software engineering, as well as a Ty
   </a>
 </p>
 
-## Databases
+### Databases
 
 <p align="center">
   <a href="https://skillicons.dev">
