@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-Hi there, I'm Cole. A diehard fan of TypeScript and sole believer of the "Everything that can be written in JavaScript, will be written in JavaScript" quote. 
+Hi there, I'm Cole. TypeScript fanatic and sole believer of the "Everything that can be written in JavaScript, will be written in JavaScript" quote. 
 
 # 🧰 Tech Stack
 
