@@ -4,11 +4,23 @@ Hi there, I'm Cole. A diehard fan of TypeScript and sole believer of the "Everyt
 
 # 🧰 Tech Stack
 
-![](https://skillicons.dev/icons?i=ts,js,nodejs,bun,deno)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,deno" />
+  </a>
+</p>
 
-![](https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite" />
+  </a>
+</p>
 
-![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" />
+  </a>
+</p>
 
 # 📊 Metrics
 
