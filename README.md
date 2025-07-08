@@ -10,7 +10,7 @@ A small list of my favorite & most commonly used programming languages, framewor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,wasm,nodejs,bun,deno," />
+    <img src="https://skillicons.dev/icons?i=ts,js,wasm,nodejs,bun,deno" />
   </a>
 </p>
 
