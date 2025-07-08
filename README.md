@@ -4,6 +4,8 @@ I'm Cole, a university student majoring in software engineering, as well as a Ty
 
 # 🧰 Tech Stack
 
+A small collection of programming languages, frameworks, tools, and databases I frequently use.
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,deno" />
@@ -23,6 +25,8 @@ I'm Cole, a university student majoring in software engineering, as well as a Ty
 </p>
 
 # 📊 Metrics
+
+This is just here for show. I only really work with TypeScript.
 
 <picture>
   <img src="/github-metrics.svg" alt="GitHub Metrics" draggable="false">
