@@ -32,8 +32,6 @@ A small list of my favorite & most commonly used programming languages, framewor
 
 # 📊 Metrics
 
-This is kind of pointless considering I only use TypeScript, but It makes my profile seem fuller. 
-
 <picture>
   <img src="/github-metrics.svg" alt="GitHub Metrics" draggable="false">
 </picture>
