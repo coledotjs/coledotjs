@@ -16,6 +16,8 @@ TypeScript is my primary programming language. I love using it with frameworks l
   <img src="/github-metrics.svg" alt="Cole's GitHub Metrics" draggable="false">
 </picture>
 
+Yeah, there's a lot TypeScript.
+
 ## Contact
 
 The best way to reach me is on [Discord](https://discord.com/). Feel free to send me a direct message (`@coledotjs`) if you want to talk to me for whatever reason lol.
