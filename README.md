@@ -1,35 +1,21 @@
-# 👋 Hi There
+# 👋 Hi there! I'm Cole.
 
-I'm Cole, a university student majoring in software engineering, as well as a TypeScript fanatic and sole believer of Atwood's law.
+I'm a university student passionate about software engineering and computer science.
 
-# 🧰 Tech Stack
+## Projects
 
-A small list of my favorite & most used programming languages, frameworks, tools, and databases.
+My main focus right now is [Strafe Stryker](https://github.com/Strafe-Stryker-Development/), a semi-private AI-powered moderation bot. Beyond that, I enjoy working on a variety of TypeScript-adjacent projects.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,wasm,nodejs,bun,deno" />
-  </a>
-</p>
+## Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,sass,vite" />
-  </a>
-</p>
+TypeScript is my primary programming language. I love using it with frameworks like Next.js and Svelte, and tools such as Drizzle ORM, Sass, and Vite. As for databases, I have experience with pretty much all of them, including PostgreSQL, MySQL, Redis, MongoDB, SQLite, and Cassandra.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,cassandra" />
-  </a>
-</p>
-
-# 📊 Metrics
+## GitHub Metrics
 
 <picture>
-  <img src="/github-metrics.svg" alt="GitHub Metrics" draggable="false">
+  <img src="/github-metrics.svg" alt="Cole's GitHub Metrics" draggable="false">
 </picture>
 
-# ✉️ Contact
+## Contact
 
-I primarly answer to messages on [Discord](https://discord.com/). Feel free to send me a DM (`@coledotjs`) if you want to talk to me for whatever reason.
+The best way to reach me is on [Discord](https://discord.com/). Feel free to send me a direct message (`@coledotjs`) if you want to talk to me for whatever reason lol.
