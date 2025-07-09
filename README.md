@@ -4,11 +4,11 @@ I'm a university student passionate about software engineering and computer scie
 
 ## Projects
 
-My main focus right now is [Strafe Stryker](https://github.com/Strafe-Stryker-Development/), a semi-private AI-powered moderation bot. Beyond that, I enjoy working on a variety of TypeScript-adjacent projects.
+My main focus right now is [Strafe Stryker](https://strafestryker.pw), a semi-private AI-powered moderation bot. Beyond that, I enjoy working on a variety of TypeScript-adjacent projects.
 
 ## Tech Stack
 
-TypeScript is my primary programming language. I love using it with frameworks like Next.js and Svelte, and tools such as Drizzle ORM, Sass, and Vite. As for databases, I have experience with pretty much all of them, including PostgreSQL, MySQL, Redis, MongoDB, SQLite, and Cassandra.
+TypeScript is my primary language of choice; if it can be built with TypeScript, it will be. For frontend stuff, I primarily work with React, Next.js, and Svelte, styled using Tailwind CSS, and bundled with Vite. As for the backend, I love using tools like Convex, Drizzle, and Prisma. I don't have a top pick when it comes to databases, but I primarily use PostgreSQL, MySQL, SQLite, Redis, MongoDB, and Cassandra.
 
 ## GitHub Metrics
 
