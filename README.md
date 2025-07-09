@@ -8,7 +8,9 @@ My main focus right now is [Strafe Stryker](https://strafestryker.pw), a semi-pr
 
 ## Tech Stack
 
-TypeScript is my primary language of choice; if it can be built with TypeScript, it will be. For frontend stuff, I primarily work with React, Next.js, and Svelte, styled using Tailwind CSS, and bundled with Vite. As for the backend, I love using tools like Convex, Drizzle, and Prisma. I don't have a top pick when it comes to databases, but I primarily use PostgreSQL, MySQL, SQLite, Redis, MongoDB, and Cassandra.
+TypeScript is my primary language of choice; if it can be built with TypeScript, it will be. 
+
+For frontend stuff, I primarily work with React, Next.js, and Svelte, styled using Tailwind CSS, and bundled with Vite. As for the backend, I love using tools like Convex, Drizzle, and Prisma. I don't have a top pick when it comes to databases, but I primarily use PostgreSQL, MySQL, SQLite, Redis, MongoDB, and Cassandra.
 
 ## GitHub Metrics
 
