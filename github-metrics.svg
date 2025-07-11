@@ -21,8 +21,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.6157712576308" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.6157712576308" y="0" width="4.384228742369167" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.8735692278131" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.8735692278131" y="0" width="1.1264307721868836" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -34,7 +34,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>99.05%</div>
+                                <div>99.76%</div>
                             </small>
                         </div>
                     </section>
@@ -47,7 +47,7 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>0.95%</div>
+                                <div>0.24%</div>
                             </small>
                         </div>
                     </section>
