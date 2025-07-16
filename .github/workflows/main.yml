@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
-          user: coledotjs
+          user: cobaltorum
           template: classic
           base: ""
           base_skip: true
