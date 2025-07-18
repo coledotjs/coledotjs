@@ -4,7 +4,7 @@ Welcome to my profile! I'm Cole, an undergrad software engineer.
 
 ## Tech Stack
 
-![](https://skillicons.dev/icons?perline=7&i=ts,js,electron,react,svelte,tailwind,postgres,mysql,sqlite,mongodb,redis,prisma)
+![](https://skillicons.dev/icons?perline=6&i=ts,js,electron,react,svelte,tailwind,postgres,mysql,sqlite,mongodb,redis,prisma)
 
 ## Metrics
 
