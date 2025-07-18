@@ -1,13 +1,3 @@
-# 👋 Hi there
+TypeScript & OSS fanatic. I build whatever sounds like a good idea at 3 AM — usually tools no one asked for, side projects I’ll never finish, or frameworks that already exist (but mine has a supposedly cooler name). My stack is all over the place, but usually includes things like Next.js, Svelte, Tailwind CSS, GraphQL, PostgreSQL, and MySQL — basically anything that lets me overengineer a todo app.
 
-Welcome to my profile! I'm Cole, an undergrad software engineer.
-
-## Tech Stack
-
-![](https://skillicons.dev/icons?perline=6&i=ts,js,electron,react,svelte,tailwind,postgres,mysql,sqlite,mongodb,redis,prisma)
-
-## Metrics
-
-<picture>
-  <img src="/github-metrics.svg" alt="Cole's GitHub Metrics" draggable="false">
-</picture>
+I love going to coffee shops and pretending I’m being productive. Sometimes I write clean code. Other times I write code that works. Either way, most of it ends up open source so feel free to steal it.
