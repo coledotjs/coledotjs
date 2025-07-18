@@ -1,10 +1,10 @@
-# 👋 Hi there! I'm Cole.
+# 👋 Hi there
 
-I'm a university student majoring in software engineering.
+Welcome to my profile! I'm Cole, an undergrad software engineer.
 
 ## Tech Stack
 
-![](https://skillicons.dev/icons?i=ts,js,electron,nodejs,bun,deno)
+![](https://skillicons.dev/icons?i=ts,js,electron,react,svelte,tailwind)
 
 ![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma)
 
