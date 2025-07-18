@@ -1,10 +1,11 @@
 # 👋 Hi there! I'm Cole.
 
-I'm a university student passionate about software engineering and computer science.
+I'm a university student majoring in software engineering.
 
 ## Projects
 
-My main focus right now is [Strafe Stryker](https://strafestryker.pw), a semi-private AI-powered moderation bot. Beyond that, I enjoy working on a variety of TypeScript-adjacent projects.
+I work on a lot of things, but unfortunately, I'm not really an open source guy. If a repository of mine is public
+it generally means that I like the code in it and think it's worthe looking at.
 
 ## Tech Stack
 
